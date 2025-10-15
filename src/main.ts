@@ -1,7 +1,7 @@
 import exampleIconUrl from "./noun-paperclip-7598668-00449F.png";
 import "./style.css";
 
-let counter: number = 0;
+let  counter: number = 0;
 
 document.body.innerHTML = `
   <button id="iconButton">
