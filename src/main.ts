@@ -27,9 +27,3 @@ button.addEventListener("click", () => {
     counter === 1 ? "" : "s"
   }`;
 });
-
-setInterval(() => {
-  counter++;
-  updateDisplay();
-}, 1000);
-updateDisplay();
